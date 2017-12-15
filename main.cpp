@@ -3,8 +3,8 @@ using namespace std;
 
 
 int main() {
-    freopen("C:\\Users\\FORHAD\\CLionProjects\\Hello\\in.txt","r",stdin);
-    freopen("C:\\Users\\FORHAD\\CLionProjects\\Hello\\out.txt","w",stdout);
+    freopen("C:\\Users\tanha\\AppData\\Local\\Packages\\Microsoft.SkypeApp_kzf8qxf38zg5c\\LocalState\Downloads\\in.txt","r",stdin);
+    freopen("C:\\Users\tanha\\AppData\\Local\\Packages\\Microsoft.SkypeApp_kzf8qxf38zg5c\\LocalState\Downloads\\out.txt","w",stdout);
     string str;
     getline(cin,str);
     int doshok = str[8] - '0';
